@@ -1,0 +1,46 @@
+body {
+  background-image: url("image1.jpeg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  h1 {
+    color:forestgreen;
+    text-shadow:
+      1px 1px 0 whitesmoke,
+     -1px 1px 0 whitesmoke,
+     1px -1px 0 whitesmoke,
+    -1px -1px 0 whitesmoke;
+  }
+  h2 {
+    color:forestgreen;
+    text-shadow:
+      1px 1px 0 whitesmoke,
+     -1px 1px 0 whitesmoke,
+     1px -1px 0 whitesmoke,
+    -1px -1px 0 whitesmoke;
+  }
+  h3 {
+    color:forestgreen;
+    text-shadow:
+      1px 1px 0 whitesmoke,
+     -1px 1px 0 whitesmoke,
+     1px -1px 0 whitesmoke,
+    -1px -1px 0 whitesmoke;
+  }
+  h4 {
+    color:forestgreen;
+    text-shadow:
+      1px 1px 0 whitesmoke,
+     -1px 1px 0 whitesmoke,
+     1px -1px 0 whitesmoke,
+    -1px -1px 0 whitesmoke;  
+  }
+  p{
+  color: white;
+  text-shadow: 
+    1px 1px 0 black,
+   -1px 1px 0 black,
+    1px -1px 0 black,
+   -1px -1px 0 black;
+}
+}
